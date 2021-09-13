@@ -10,6 +10,8 @@ import UIKit
 class ArticleTableViewCell: UITableViewCell {
 
    
+    
+    
     @IBOutlet weak var tableLabel: UILabel!
     
     @IBOutlet weak var descLabel: UILabel!

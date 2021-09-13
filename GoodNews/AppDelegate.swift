@@ -12,7 +12,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+    
+    
+>>>>>>> d8a932d (Dodato nestoo)
 
 >>>>>>> 9beb4a9 (App Delegate)
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
